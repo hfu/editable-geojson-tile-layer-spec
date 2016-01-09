@@ -12,4 +12,4 @@
 - make it editable
 - the result of the edit will be tilewise pull request.
 
-By making the TileLayer editable and pull-requestable, the choice of GeoJSON over binary will be rationized.
+By making the TileLayer editable and pull-requestable, the choice of GeoJSON over binary will be rationalized.
